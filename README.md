@@ -3,9 +3,9 @@
 ## Introduction
 In this project, I implement several decision tree algorithms from scratch, including:
 - **Decision Tree**
+- **Bagging Classifier**
 - **Random Forest**
 - **AdaBoost**
-- **Bagging Classifier**
 
 The goal is to understand the inner workings of these algorithms and compare my implementations against popular libraries such as scikit-learn.
 
